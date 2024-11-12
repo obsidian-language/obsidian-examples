@@ -1,0 +1,2 @@
+# Variables
+In Obsidian, variables are mutable by default. When a variable is mutable, once a value is bound to a name, you can change that value. You can make them immutable by adding `const` in front of the variable name.
